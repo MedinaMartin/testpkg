@@ -1,0 +1,12 @@
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\TestDockerHub.exe
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\appsettings.Development.json
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\appsettings.json
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\TestDockerHub.dll
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\TestDockerHub.deps.json
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\TestDockerHub.runtimeconfig.json
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\TestDockerHub.pdb
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desa\TestDockerHub\TestDockerHub\TestDockerHub\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

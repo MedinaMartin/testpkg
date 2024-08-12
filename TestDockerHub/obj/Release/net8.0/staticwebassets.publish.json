@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g+XW6RQlm27Mg4zuOVtKRegMHdpMhlZkHql91kz0tsA=",
+  "Source": "TestDockerHub",
+  "BasePath": "_content/TestDockerHub",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
